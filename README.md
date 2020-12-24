@@ -108,9 +108,9 @@ install package with requirements.txt
 <!-- CONTACT -->
 ## Contact
 
-Facebook - [@Natchapol Patamawisut](https://www.facebook.com/natchapol.patamawisut/)
+Facebook - [@Natchariya wongamnuyporn](https://www.facebook.com/Natchariya.wongamnuayporn/)
 
-Project Link: [https://github.com/BankNatchapol/ETL-with-Python-psycopg2](https://github.com/BankNatchapol/ETL-with-Python-psycopg2)
+Project Link: [https://github.com/Natchariyawong25/ETL-with-Python-psycopg2](https://github.com/Natchariyawong25/ETL-with-Python-psycopg2/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
