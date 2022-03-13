@@ -29,9 +29,9 @@
     Create a ETL Pipeline for Data Modeling task with Python psycopg2
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/BankNatchapol/ETL-with-Python-psycopg2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/BankNatchapol/ETL-with-Python-psycopg2/issues">Request Feature</a>
   </p>
 </p>
 
@@ -94,6 +94,9 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 
 <img src="https://video.udacity-data.com/topher/2019/February/5c6c15e9_log-data/log-data.png"/>
 
+### Data Model
+This is my database Star Schema.
+<img src="https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/38715/1608661799/Song_ERD.png"/>
 <!-- GETTING STARTED -->
 ## Getting Started
 
